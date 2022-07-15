@@ -3,7 +3,7 @@ import { ethers, BigNumber } from "ethers";
 import { Box, Button, Flex, Input, Text } from "@chakra-ui/react";
 import roboPunksNFT from "./RoboPunksNFT.json";
 
-const roboPunksNFTAddress = "0xBA7d0E7d36b733ff8113980a263cde09E3129Be3";
+const roboPunksNFTAddress = "0x35e4323c5c0A36972F629162182ade45435B4c12";
 
 const MaintMint = ({ accounts, setAccounts }) => {
   const [mintAmount, setMintAmount] = useState(1);
@@ -44,7 +44,7 @@ const MaintMint = ({ accounts, setAccounts }) => {
       <Box width="520px">
         <div>
           <Text fontSize="48px" textShadow="0 5px #000000">
-            RoboPunksNFT
+            The God of Glace...
           </Text>
           <Text
             fontSize="30px"
@@ -52,7 +52,8 @@ const MaintMint = ({ accounts, setAccounts }) => {
             fontFamily="VT323"
             textShadow="0 2px 2px #000000"
           >
-            This website is for demo purposes only.
+            This website is for Test Only----
+            韩总。。。。
           </Text>
         </div>
 
