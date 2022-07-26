@@ -52,8 +52,7 @@ const MaintMint = ({ accounts, setAccounts }) => {
             fontFamily="VT323"
             textShadow="0 2px 2px #000000"
           >
-            This website is for Test Only----
-            韩总。。。。
+            Welcome To Khtain Digital Running On ETH test Newwork Mint ERC721 NFT 
           </Text>
         </div>
 
